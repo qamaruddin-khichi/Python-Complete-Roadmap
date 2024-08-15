@@ -18,14 +18,17 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 ---
 
 ### Python Tutorials
-1. [Is Python Really Needed For a Data Analyst Job?](https://youtube.com)
-2. [Session 1 - Python Fundamentals | CampusX Data Science Mentorship Program | 7th Nov 2022](https://youtube.com)
-3. [Session 2 - Operators + If-Else + Loops | CampusX Data Science Mentorship Program | 8th Nov 2022](https://youtube.com)
-4. [Session 3 - Python Strings | CampusX Data Science Mentorship Program | 9th Nov 2022](https://youtube.com)
-5. [Programming Problems on Strings | Session 3 Supplementary Session](https://youtube.com)
-6. [Session 4 - Lists in Python | Data Science Mentorship Program (DSMP) 2022-23](https://youtube.com)
-7. [Session 5 - Tuples + Sets + Dictionary | DSMP 2022-23](https://youtube.com)
-8. [Session 6 - Functions in Python | DSMP 2022-23](https://youtube.com)
+
+1) [Is Python Really Needed For a Data Analyst Job?](https://www.youtube.com/watch?v=wKqt7ThgR1g)
+2) [Session 1 - Python Fundamentals | CampusX Data Science Mentorship Program | 7th Nov 2022](https://www.youtube.com/watch?v=1z5-O7-5AXk&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=3&t=1862s)
+3) [Session 2 - Operators + If-Else + Loops | CampusX Data Science Mentorship Program | 8th Nov 2022](https://www.youtube.com/watch?v=JCkIrdrZEE8&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=4)
+4) [Session 3 - Python Strings | CampusX Data Science Mentorship Program | 9th Nov 2022](https://www.youtube.com/watch?v=6HAu0Y9BjA4&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=5)
+5) [Programming Problems on Strings | Session 3 Supplementary Session](https://www.youtube.com/watch?v=7ltjqU5iytY&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=6)
+6) [Session 4 - Lists in Python | Data Science Mentorship Program(DSMP) 2022-23](https://www.youtube.com/watch?v=WmbU3WBaoR0&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=11)
+7) [Session 5 - Tuples + Sets + Dictionary | Data Science Mentorship Program(DSMP) 2022-23](https://www.youtube.com/watch?v=jcQjp11mn1A&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=12)
+8) [Session 6 - Functions in Python | Data Science Mentorship Program(DSMP) 2022-23](https://www.youtube.com/watch?v=OOInK25PoFo&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=13)
+
+---
 
 ### Python Documentation
 1. [The Python Tutorial — Python 3.12.5 documentation](https://docs.python.org/3/tutorial/)
