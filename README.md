@@ -31,23 +31,32 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 ---
 
 ### Python Documentation
+
 1. [The Python Tutorial — Python 3.12.5 documentation](https://docs.python.org/3/tutorial/)
 2. [Python Tutorial | Learn Python Programming - GeeksforGeeks](https://www.geeksforgeeks.org/python-tutorial/)
 3. [Python Tutorial (w3schools.com)](https://www.w3schools.com/python/)
 4. [Python Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/python/index.htm)
 5. [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 
-### NumPy Tutorials
-1. [Session 13 - Numpy Fundamentals | DSMP 2022-23](https://youtube.com)
-2. [Session 14 - Advanced Numpy | DSMP 2022-23](https://youtube.com)
-3. [Session 15 - Numpy Tricks | DSMP 2022-23](https://youtube.com)
+---
+
+## NumPy Tutorials
+
+1) [Session 13 - Numpy Fundamentals | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=XF6DCrNTzug&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=43)
+2) [Session 14 - Advanced Numpy | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=40xGMygHMDU&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=45)
+3) [Session 15 - Numpy Tricks | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=jFBpnd0G09o&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=47)
+
+---
 
 ### NumPy Documentation
+
 1. [What is NumPy? — NumPy v2.0 Manual](https://numpy.org/doc/stable/)
 2. [Introduction to NumPy (w3schools.com)](https://www.w3schools.com/python/numpy_intro.asp)
 3. [NumPy Tutorial (geeksforgeeks.org)](https://www.geeksforgeeks.org/numpy-tutorial/)
 4. [NumPy Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/numpy/index.htm)
 5. [Numpy Arrays - Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/en/Numpy_Arrays)
+
+---
 
 ### Pandas Tutorials
 1. [Session 16 - Pandas Series | DSMP 2022-23](https://youtube.com)
