@@ -58,22 +58,26 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 
 ---
 
-### Pandas Tutorials
-1. [Session 16 - Pandas Series | DSMP 2022-23](https://youtube.com)
-2. [Session 17 - Pandas DataFrame | DSMP 2022-23](https://youtube.com)
-3. [Important Series Methods | Supplementary Session | DSMP 2022-23](https://youtube.com)
-4. [Session 18 - Important DataFrame Methods | DSMP 2022-23](https://youtube.com)
-5. [Session 19 - GroupBy Object in Pandas | DSMP 2022-23](https://youtube.com)
-6. [Session 20 - Merging, Joining & Concatenating | DSMP 2022-23](https://youtube.com)
-7. [Session 21 - MultiIndex Series and DataFrames | DSMP 2022-23](https://youtube.com)
-8. [Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table | DSMP 2022-23](https://youtube.com)
+## Pandas Tutorials
 
-### Pandas Documentation
-1. [10 minutes to pandas — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
-2. [Getting started — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
-3. [Pandas Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-introduction/)
-4. [Pandas Tutorial (w3schools.com)](https://www.w3schools.com/python/pandas/default.asp)
-5. [Pandas Basics - Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/en/Pandas_Basics)
+1) [Session 16 - Pandas Series| Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=zCDVUyq8lkw&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=52)
+2) [Important Series Methods | Supplementary Session | DSMP 2022-23](https://www.youtube.com/watch?v=80QpbZA38HA&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=54)
+3) [Session 17 - Pandas DataFrame | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=OG31yhRQxPI&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=52)
+4) [Session 18 - Important DataFrame Methods | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=zTa4MIrGTIE&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=54)
+5) [Session 19 - GroupBy Object in Pandas | Data Science Mentorship Program (DSMP) 2022-23](https://www.youtube.com/watch?v=LPBjF4_gZnI&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=57)
+6) [Session 20 - Merging, Joining & Concatenating | DSMP 2022-23](https://www.youtube.com/watch?v=Ssy1EfK5S-o&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=61)
+7) [Session 21 - MultiIndex Series and DataFrames | DSMP 2022-23](https://www.youtube.com/watch?v=QzoRUwz8DoM&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=62)
+8) [Session 22 - Vectorized String Operations | DateTime in Pandas | Pivot Table | DSMP 2022-23](https://www.youtube.com/watch?v=UE6DmRQJ2w8&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=71)
+
+---
+
+## Pandas Documentation
+
+1) [10 minutes to pandas — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/docs/user_guide/10min.html?fbclid=IwZXh0bgNhZW0CMTEAAR0jugfzvNyToFMkJ7MMuLFmcMvprLwmxeXSm5ibxswGltmKq6QInycjsHE_aem_7sd--ZrjTj-ceanajqEIkg)
+2) [Getting started — pandas 2.2.2 documentation (pydata.org)](https://pandas.pydata.org/docs/getting_started/index.html)
+3) [Pandas Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-pandas-in-python/)
+4) [Pandas Tutorial (w3schools.com)](https://www.w3schools.com/python/pandas/default.asp)
+5) [Pandas Basics - Learn Python - Free Interactive Python Tutorial](https://learnpython.org/en/Pandas_Basics)
 
 ---
 
