@@ -1,19 +1,22 @@
-### Python Complete Roadmap
-
-## Introduction (Python for Data Analytics: Complete Roadmap)
-
-This roadmap is designed to guide beginners who want to become data analysts. It covers essential topics like Python fundamentals, NumPy, and Pandas, with links to tutorials and documentation. Whether you're just starting or looking to strengthen your skills, this roadmap will help you build a solid foundation in Python, which is crucial for data analysis.
-
----
+# Python Complete Roadmap for Data Analysts
 
 ## Table of Contents
 
-1. [Python Tutorials](#python-tutorials)
-2. [Python Documentation](#python-documentation)
-3. [NumPy Tutorials](#numpy-tutorials)
-4. [NumPy Documentation](#numpy-documentation)
-5. [Pandas Tutorials](#pandas-tutorials)
-6. [Pandas Documentation](#pandas-documentation)
+1. [Python Introduction](#python-introduction)
+2. [Python Tutorials](#python-tutorials)
+3. [Python Documentation](#python-documentation)
+4. [NumPy Tutorials](#numpy-tutorials)
+5. [NumPy Documentation](#numpy-documentation)
+6. [Pandas Tutorials](#pandas-tutorials)
+7. [Pandas Documentation](#pandas-documentation)
+8. [Conclusion](#conclusion)
+9. [Contact Details](#contact-details)
+
+---
+
+### Python Introduction
+
+This roadmap is designed to guide beginners who want to become data analysts. It covers essential topics like Python fundamentals, NumPy, and Pandas, with links to tutorials and documentation. Whether you're just starting or looking to strengthen your skills, this roadmap will help you build a solid foundation in Python, which is crucial for data analysis.
 
 ---
 
@@ -81,4 +84,14 @@ This roadmap is designed to guide beginners who want to become data analysts. It
 
 ---
 
+## Conclusion
+
 This ROADMAP provides a clear and structured way to help you develop your Python skills for data analysis. By following this roadmap, you'll have enough knowledge and skills necessary to excel in PYTHON and build a strong foundation for your career in data analysis. Happy learning!
+
+---
+
+## Contact Details
+
+**Call:** +92-318-815444-1  
+**Email:** qamaruddinkhichi123@gmail.com  
+**LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
